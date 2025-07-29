@@ -102,7 +102,7 @@ npm start
 
 ## 👨‍💻 Author
 
-Made with ❤️ by \[Node Alchemist]
+Made with ❤️ by \[Lalit Prajapat]
 GitHub: [@Lalitprajapat43](https://github.com/Lalitprajapat43)
 
 ---
